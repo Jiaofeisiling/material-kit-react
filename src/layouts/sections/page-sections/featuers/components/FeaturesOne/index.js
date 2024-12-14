@@ -30,7 +30,7 @@ function FeaturesOne() {
         <Grid container alignItems="center">
           <Grid item xs={12} lg={5}>
             <MKTypography variant="h3" my={1}>
-              Read More About Us
+              TESTTESTTESTTESTTESTTESTTEST
             </MKTypography>
             <MKTypography variant="body2" color="text" mb={2}>
               Pain is what we go through as we become older. We get insulted by others, lose trust

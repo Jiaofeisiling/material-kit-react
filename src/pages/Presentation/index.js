@@ -83,7 +83,7 @@ function Presentation() {
                 },
               })}
             >
-              Material Kit 2 React{" "}
+              Material Kit 2 React TEST AI{" "}
             </MKTypography>
             <MKTypography
               variant="body1"

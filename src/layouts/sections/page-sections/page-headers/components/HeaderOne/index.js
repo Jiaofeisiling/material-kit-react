@@ -173,7 +173,7 @@ function HeaderOne() {
             </MKTypography>
             <MKTypography variant="body1" color="white" opacity={0.8} pr={6} mr={6}>
               The time is now for it be okay to be great. People in this world shun people for being
-              nice.
+              nice. QQQQ
             </MKTypography>
             <Stack direction="row" spacing={1} mt={3}>
               <MKButton color="white">Get Started</MKButton>
