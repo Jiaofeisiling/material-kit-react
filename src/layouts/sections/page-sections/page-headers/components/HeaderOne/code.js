@@ -150,15 +150,15 @@ function HeaderOne() {
               mb={3}
               sx={({ breakpoints, typography: { size } }) => ({
                 [breakpoints.down("md")]: {
-                  fontSize: size["3xl"],
-                },
+                  fontSize: size["3xl"]
+                }
               })}
             >
               Material Kit
             </MKTypography>
             <MKTypography variant="body1" color="white" opacity={0.8} pr={6} mr={6}>
               The time is now for it be okay to be great. People in this world shun people for being
-              nice.
+              nice.TEST.
             </MKTypography>
             <Stack direction="row" spacing={1} mt={3}>
               <MKButton color="white">Get Started</MKButton>
