@@ -67,6 +67,8 @@ import Dropdowns from "layouts/sections/elements/dropdowns";
 import ProgressBars from "layouts/sections/elements/progress-bars";
 import Toggles from "layouts/sections/elements/toggles";
 import Typography from "layouts/sections/elements/typography";
+import Scanning from "./pages/LandingPages/Scanning";
+import Home from "./pages/LandingPages/Home";
 
 const routes = [
   {
@@ -92,6 +94,16 @@ const routes = [
             name: "author",
             route: "/pages/landing-pages/author",
             component: <Author />,
+          },
+          {
+            name: "scanning",
+            route: "/pages/landing-pages/scanning",
+            component: <Scanning />,
+          },
+          {
+            name: "Home",
+            route: "/pages/landing-pages/home",
+            component: <Home />,
           },
         ],
       },
